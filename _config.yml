@@ -1,11 +1,11 @@
-name: 
-author: 
-url: 
+name: Yusskk's blog
+author: Yusskk
+url: https://yusskk.github.io/
 baseurl: 
-resume_site: 
-description: 
-github_username: 
-github: 
+resume_site: https://yusskk.github.io/
+description: Yusskk's blog
+github_username: Yusskk
+github: https://github.com/Yusskk
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
