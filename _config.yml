@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : 425772a3f95d3fec0996
+    clientSecret : b468f86cd51c47bbb20c131fc05401e50b0445fa
+    repo : Gitalk-Comment
+    owner : HongKongLang
+    admin : Yusskk
